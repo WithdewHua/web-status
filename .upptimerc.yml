@@ -8,11 +8,11 @@ sites:
     url: https://10101.io
   - name: Subconverter | 方寸间
     url: https://web.api.10101.io
-  - name: 储物间 | 方寸间
+  - name: "储物间 | 方寸间"
     url: https://asset.10101.io
-  - name: AdguardHome | 方寸间
+  - name: "AdguardHome | 方寸间"
     url: https://dns.10101.io
-  - name: Self-Hosted Bitwarden | 方寸间
+  - name: "Self-Hosted Bitwarden | 方寸间"
     url: https://vault.10101.io
 
 status-website:
