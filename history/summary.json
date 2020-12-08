@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7287,
-    "timeDay": 7298,
-    "timeWeek": 7287,
-    "timeMonth": 7287,
-    "timeYear": 7287,
+    "time": 5005,
+    "timeDay": 443,
+    "timeWeek": 5005,
+    "timeMonth": 5005,
+    "timeYear": 5005,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 258,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 233,
+    "timeDay": 87,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/asset.10101.io",
     "slug": "withdew-hua-assets",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 343,
-    "timeDay": 288,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
-    "dailyMinutesDown": {
-      "2020-12-07": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 292,
+    "timeDay": 134,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdguardHome",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 850,
-    "timeWeek": 871,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "time": 836,
+    "timeDay": 697,
+    "timeWeek": 836,
+    "timeMonth": 836,
+    "timeYear": 836,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 209,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 197,
+    "timeDay": 158,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   }
 ]
