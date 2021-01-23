@@ -58,9 +58,9 @@
     "url": "https://dns.10101.io",
     "icon": "https://favicons.githubusercontent.com/dns.10101.io",
     "slug": "adguard-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
@@ -70,6 +70,7 @@
     "timeMonth": 865,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2021-01-23": 0,
       "2021-01-20": 57
     }
   },
