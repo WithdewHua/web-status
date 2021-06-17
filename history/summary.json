@@ -4,9 +4,9 @@
     "url": "https://10101.io",
     "icon": "https://favicons.githubusercontent.com/10101.io",
     "slug": "withdew-hua-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 767,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2021-06-17": 0,
       "2021-06-07": 72,
       "2021-06-06": 116,
       "2021-03-04": 35,
@@ -95,9 +96,9 @@
     "url": "https://vault.10101.io",
     "icon": "https://favicons.githubusercontent.com/vault.10101.io",
     "slug": "self-hosted-bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -107,6 +108,7 @@
     "timeMonth": 211,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2021-06-17": 0,
       "2021-03-14": 26
     }
   }
